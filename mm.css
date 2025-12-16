@@ -16,7 +16,7 @@ img {
 }
 
 header {
-  text-align: left;
+  text-align: right;
   padding: 20px;
   padding-top:10px;
   padding-bottom:10px;
@@ -149,6 +149,7 @@ footer {
     align-items: center;
   }
 }
+
 
 
 
