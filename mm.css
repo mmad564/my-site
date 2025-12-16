@@ -16,7 +16,7 @@ img {
 }
 
 header {
-  text-align: ltr;
+  text-align: left;
   padding: 20px;
   font-size: 28px;
   letter-spacing: 3px;
@@ -74,6 +74,9 @@ header {
   background: #111;
   border-radius: 8px;
   color: #ffd000;
+  padding-top:10px;
+  padding-right:7px;
+  padding-left:7px;
 }
 
 .filter ul {
@@ -142,4 +145,5 @@ footer {
     align-items: center;
   }
 }
+
 
