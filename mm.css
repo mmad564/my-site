@@ -16,7 +16,7 @@ img {
 }
 
 header {
-  text-align: center;
+  text-align: ltr;
   padding: 20px;
   font-size: 28px;
   letter-spacing: 3px;
@@ -142,3 +142,4 @@ footer {
     align-items: center;
   }
 }
+
