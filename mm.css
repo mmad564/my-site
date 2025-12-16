@@ -18,6 +18,9 @@ img {
 header {
   text-align: left;
   padding: 20px;
+  padding-top:10px;
+  padding-left:5px;
+  padding-right:5px;
   font-size: 28px;
   letter-spacing: 3px;
   background: #0d0d0d;
@@ -145,5 +148,6 @@ footer {
     align-items: center;
   }
 }
+
 
 
